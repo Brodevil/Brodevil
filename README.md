@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Brodevil
 
- 😀 My Actual name is _[Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)_😀 <br/>
+ 😀 My Actual name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
  📝 Currently I am Struding in _[Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/)_ Palghar 📝<br/><br/>
  
 - 🔭 I’m currently working on Python
