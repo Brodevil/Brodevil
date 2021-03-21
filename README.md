@@ -20,8 +20,7 @@
 3. No need to so the plans to other Just Show the result
 
 ## My Stats
-Till Tomorrow I will made this too Defenatly bro
-1. Till now I m not Expert in Github but I m tring my best to use it and also uploade my repos
+![Brodevil GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brodevil&show_icons=true&hide_border=true)
 <!--
 **Brodevil/Brodevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
