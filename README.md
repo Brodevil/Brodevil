@@ -6,7 +6,7 @@
  But I was having the interest in the computer and all such stuff when I was just 5
  I like to learn learn interesting things which I want, Not Other things which are not interesting stuff<br/><br/>
  
- 
+ # Some Info
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning some Python Framworks 
 - 👯 I’m looking to collaborate on my Future Planed projects
