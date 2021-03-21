@@ -2,7 +2,7 @@
 
  😀 My Actual name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
  📝 Currently I am Struding in _[Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/)_ Palghar 📝
- - If I say truely then I have just started programming in LockDown Due to Covid-19
+ 🤞 If I say truely then I have just started programming in LockDown Due to Covid-19
  But I was having the interest in the computer and all such stuff when I was just 5
  I like to learn learn interesting things which I want, Not Other things which are not interesting stuff<br/><br/>
  
