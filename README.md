@@ -22,7 +22,7 @@
 - DM is alwasy opne
 - You can _email_ me anything on any topic, I m ready.
 - We can also meet at your [Discord Server](https://discord.gg/tCPvP9K8)
-- 
+
 # Plans
 1. Next 6 months schedule is fix , What to learn, When to learn with how much practise <br/>
 2. You will soon get to see the result due to my furture coming Project on this _[Github Profile](github.com/Brodevil)_<br/>
