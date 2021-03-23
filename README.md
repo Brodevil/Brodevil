@@ -17,10 +17,11 @@ Hi there, This is Brodevil
 - 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
 - 🧑 English: My English is not best but I want to make it best and talk with the foreign country Developers as same like them on Python Discord
 
-# DM is always open
+### Feel free to DM
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discord.gg/VY5e8g5P)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](abhinavchaudhary351@gmail.com)
 [![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil_89/)
-<hr>
-![Brodevil GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brodevil&theme=radical&show_icons=true)    
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight)
+<hr><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Brodevil&theme=radical&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight"/>
+
