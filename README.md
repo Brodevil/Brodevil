@@ -7,7 +7,7 @@ Hi there, This is Brodevil
  😀 Actual my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
  📝 Currently I am Struding in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar 📝<br/>
  🤞 I am in class 8th and Experianced in python well as well as want to learn more such stuff<br/>
- 🏋 [SGPI](http://www.sgfibharat.com/)Silver Medalist in Rope skipping <br/><br/>
+ 🏋 School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) Silver Medalist in Rope skipping <br/><br/>
 
  # Some Info
 - 🔭 I’m currently working on Python
