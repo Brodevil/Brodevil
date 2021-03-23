@@ -5,12 +5,11 @@ Hi there, This is Brodevil
 </h1>
 
 
- 😀 My Actual name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
- 📝 Currently I am Struding in _[Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/)_ Palghar 📝<br/>
- 🤞 If I say truely then I have just started programming in LockDown Due to Covid-19
- But I was having the interest in the computer and all such stuff when I was just 5
- I like to learn learn interesting things which I want, Not Other things which are not interesting stuff<br/><br/>
- 
+ 😀 Actual my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
+ 📝 Currently I am Struding in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar 📝<br/>
+ 🤞 I am in class 8th and Experianced in python well as well as want to learn more such stuff<br/>
+ 🏋 [SGPI](http://www.sgfibharat.com/)Silver Medalist in Rope skipping <br/><br/>
+ <hr>
  # Some Info
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning some Python Framworks 
@@ -19,9 +18,10 @@ Hi there, This is Brodevil
 
 ### Feel free to DM
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discord.gg/VY5e8g5P)
-[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](abhinavchaudhary351@gmail.com)
 [![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil_89/)
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](abhinavchaudhary351@gmail.com)
+
 <hr><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brodevil&theme=radical&show_icons=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight"/>
 
