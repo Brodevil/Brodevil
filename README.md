@@ -1,4 +1,9 @@
-### Hi there 👋, This is Brodevil
+<h1 align="center">
+<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+Hi there, This is Brodevil
+<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+</h1>
+
 
  😀 My Actual name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
  📝 Currently I am Struding in _[Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/)_ Palghar 📝<br/>
@@ -9,25 +14,13 @@
  # Some Info
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning some Python Framworks 
-- 👯 I’m looking to collaborate on my Future Planed projects
-- 🤔 I’m looking for help with a professional Programmer to making it a friend and learn from his and work with him
-- 💬 Ask me about my Interest and my advise
-- 📫 How to reach me: Being as a friendly Guy.
-- 😄 Hobby: Programming, Rope Skipping and washing Cloths
-- ⚡ Fun fact: On one can be sad while I m near him, And I will never beging sad more than 15 min
-- 😁 Relations: Actually, I m single. I am very samll for these stuffs
+- 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
 - 🧑 English: My English is not best but I want to make it best and talk with the foreign country Developers as same like them on Python Discord
 
-# Meet me
-- DM is alwasy opne
-- You can _email_ me anything on any topic, I m ready.
-- We can also meet at your [Discord Server](https://discord.gg/tCPvP9K8)
-
-# Plans
-1. Next 6 months schedule is fix , What to learn, When to learn with how much practise <br/>
-2. You will soon get to see the result due to my furture coming Project on this _[Github Profile](github.com/Brodevil)_<br/>
-3. No need to so the plans to other Just Show the result
-
-## My Stats
+# DM is always open
+[![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discord.gg/VY5e8g5P)
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](abhinavchaudhary351@gmail.com)
+[![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil_89/)
+<hr>
 ![Brodevil GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brodevil&theme=radical&show_icons=true)    
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight)
