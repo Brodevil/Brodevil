@@ -4,17 +4,16 @@ Hi there, This is Brodevil
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
-
  😀 Actual my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
  📝 Currently I am Struding in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar 📝<br/>
  🤞 I am in class 8th and Experianced in python well as well as want to learn more such stuff<br/>
  🏋 [SGPI](http://www.sgfibharat.com/)Silver Medalist in Rope skipping <br/><br/>
- <hr>
+
  # Some Info
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning some Python Framworks 
 - 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
-- 🧑 English: My English is not best but I want to make it best and talk with the foreign country Developers as same like them on Python Discord
+- 🧑 My English is not best but I want to make it best and talk with the foreign country Developers as same like them on Python Discord
 
 ### Feel free to DM
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discord.gg/VY5e8g5P)
