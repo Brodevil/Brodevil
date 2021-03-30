@@ -16,7 +16,7 @@ Hi there, This is Brodevil
 - 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
 - 🧑 My English is not best but I want to make it best and talk with the foreign country Developers as same like them on Python Discord
 
-### Feel free to DM
+### Feel free to DM, Its always open
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discord.gg/VY5e8g5P)
 [![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil_89/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](abhinavchaudhary351@gmail.com)
