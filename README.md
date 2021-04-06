@@ -10,6 +10,7 @@ Hi there, This is Brodevil
  🤞 I am in class 8th and Experianced in python well & want to learn more such stuff 🤞<br/>
  🏋 School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) Silver Medalist in Rope skipping 🏋<br/><br/>
 
+
  # Some Info
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning some Python Framworks 
@@ -28,4 +29,3 @@ Hi there, This is Brodevil
 <hr><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brodevil&theme=radical&show_icons=true"/>
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight"/>
-
