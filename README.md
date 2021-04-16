@@ -11,7 +11,7 @@ Hi there, This is Brodevil
  🏋 School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) Silver Medalist in Rope skipping 🏋<br/><br/>
 
 
- # Some Info
+ # Few Info
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning some Python Framworks 
 - 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
