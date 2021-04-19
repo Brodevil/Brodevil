@@ -12,7 +12,7 @@ Hi there, This is Brodevil
 
 
  # Few Info
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working with Python
 - 🌱 I’m currently learning some Python Framworks 
 - 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
 - 🧑 My English is not best but I want to make it best and talk with the foreign country Developers as same like them on Python Discord
