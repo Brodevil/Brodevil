@@ -1,8 +1,8 @@
 <hr>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Brodevil.Brodevil"/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Brodevil.Brodevil"/><h1 align="center">
 
 👋 Hi there!, This is Brodevil 👋
-
+</h1>
 
  😀 Actual my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
  📝 Currently I am Struding in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar 📝<br/>
