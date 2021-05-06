@@ -13,8 +13,8 @@
 - 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
 - 🧑 My English is not best but I want to make it best and talk with the foreign country Developers on [Python Discord](https://pythondiscord.com/)
 - 😎 I really Want to learn many things and become expert, Many goles and dream which I wish to complete. 
-- 🙏 I always like to make Porgrammer friends and work with them.
-- 👊 I am tring my best to contribute in open source and help other if possibles. <br><br>
+- 🙏 I always like to make Developer friends and work with them.
+- 👊 I am tring my best to contribute in open source and help others if possible. <br><br>
 
 
 ### Feel free to DM, Its always open
