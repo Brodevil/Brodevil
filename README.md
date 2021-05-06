@@ -4,17 +4,14 @@
 👋 Hi there!, This is Brodevil 👋
 </h1>
 
- 😀 Actual my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary)😀 <br/>
- 📝 Currently I am Struding in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar 📝<br/>
- 🤞 I am in class 9th and Experianced in python well & want to learn more such stuff 🤞<br/>
- 🏋 School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) Silver Medalist in Rope skipping 🏋<br/><br/>
+ Actual my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary). Currently I am Struding in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar, I am in class 9th, Mediator in python & wanna learn much more such pieces of stuff. Silver Medalist in Rope skipping of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) <br><br>
 
 
  # Few Info
 - 🔭 I’m currently working with Python
 - 🌱 I’m currently learning some Python Framworks 
 - 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
-- 🧑 My English is not best but I want to make it best and talk with the foreign country Developers as same like them on Python Discord
+- 🧑 My English is not best but I want to make it best and talk with the foreign country Developers on [Python Discord](https://pythondiscord.com/)
 - 😎 I really Want to learn many things and become expert, Many goles and dream which I wish to complete. 
 - 🙏 I always like to make Porgrammer friends and work with them.
 - 👊 I am tring my best to contribute in open source and help other if possibles. <br><br>
