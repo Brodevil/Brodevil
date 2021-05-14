@@ -14,7 +14,7 @@
 - 🧑 My English is not best but I want to improve it and speak with the foreign developers on [Python Discord](https://pythondiscord.com/)
 - 😎 I really want to learn many things and become expert; there're many goals and dreams which I hope to achieve.
 - 🙏 I always like to make developer friends and work with them.
-- 👊 I am trying my best to contribute in open source and help others if possible. <br><br>
+- 👊 I am trying my best to contribute in open source and help others as best as I can. <br><br>
 
 
 ### Feel free to DM; it's always open!
