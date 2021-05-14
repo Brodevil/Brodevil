@@ -1,23 +1,23 @@
 <hr>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Brodevil.Brodevil"/><h1 align="center">
 
-👋 Hi there!, This is Brodevil 👋
+👋 Hi there! This is Brodevil! 👋
 </h1>
 
- Actual my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary). Currently I am Struding in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar, I am in class 9th, Mediator in python & wanna learn much more such pieces of stuff. Silver Medalist in Rope skipping of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) <br><br>
+ Actually, my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary). Currently I am studying in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar. I am in 9th class, Mediator in Python & I wanna learn lots more stuff like it. I was a Silver Medalist in Rope skipping of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) <br><br>
 
 
- # Few Info
+ # Some Info
 - 🔭 I’m currently working with Python
-- 🌱 I’m currently learning some Python Framworks 
-- 🤔 I’m looking for help with a professional Programmer to making it a friend and learn & work together
-- 🧑 My English is not best but I want to make it best and talk with the foreign country Developers on [Python Discord](https://pythondiscord.com/)
-- 😎 I really Want to learn many things and become expert, Many goles and dream which I wish to complete. 
-- 🙏 I always like to make Developer friends and work with them.
-- 👊 I am tring my best to contribute in open source and help others if possible. <br><br>
+- 🌱 I’m currently learning some Python frameworks 
+- 🤔 I’m looking for help with a professional programmer to become friends and learn & work together
+- 🧑 My English is not best but I want to improve it and speak with the foreign developers on [Python Discord](https://pythondiscord.com/)
+- 😎 I really want to learn many things and become expert; there're many goals and dreams which I hope to achieve.
+- 🙏 I always like to make developer friends and work with them.
+- 👊 I am trying my best to contribute in open source and help others if possible. <br><br>
 
 
-### Feel free to DM, Its always open
+### Feel free to DM; it's always open!
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discord.gg/VY5e8g5P)
 [![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil_89/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](abhinavchaudhary351@gmail.com)<br>
