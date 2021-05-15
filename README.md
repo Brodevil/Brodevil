@@ -4,17 +4,15 @@
 👋 Hi there! This is Brodevil! 👋
 </h1>
 
- Actually, my name is [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary). Currently I am studying in [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar. I am in 9th class, Mediator in Python & I wanna learn lots more stuff like it. I was a Silver Medalist in Rope skipping of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) <br><br>
+I M [Abhinav Kumar Choudhary](https://about.me/abhinav_choudhary). UG Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar as a 9th class student in India.
+Mediator in Python & Have a deep interest with technology. Programming is my favorite sport.<br> My passion to learn and develop more to achieve my dreams.Also I was a Silver Medalist in Rope skipping of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) <br><br>
 
 
- # Some Info
-- 🔭 I’m currently working with Python
-- 🌱 I’m currently learning some Python frameworks 
-- 🤔 I’m looking for help with a professional programmer to become friends and learn & work together
-- 🧑 My English is not best but I want to improve it and speak with the foreign developers on [Python Discord](https://pythondiscord.com/)
-- 😎 I really want to learn many things and become expert; there're many goals and dreams which I hope to achieve.
-- 🙏 I always like to make developer friends and work with them.
-- 👊 I am trying my best to contribute in open source and help others as best as I can. <br><br>
+
+-  I’m currently working with Python
+-  I’m currently learning some Python frameworks 
+-  I’m looking for help with other programmer to work with them in open source
+-  I really want to learn many things and become expert; there're many goals and dreams which I hope to achieve. <br><br>
 
 
 ### Feel free to DM; it's always open!
@@ -24,4 +22,4 @@
 
 <hr><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brodevil&theme=radical&show_icons=true"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight" height="185" width="300"/>
