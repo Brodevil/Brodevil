@@ -4,7 +4,7 @@
 👋 Hi there! This is Brodevil! 👋
 </h1>
 
-My name is [Abhinav](https://about.me/abhinav_choudhary). UG Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar as a 9th class student in India.
+My name is [Abhinav](https://about.me/abhinav_choudhary) A Young Programmer. UG Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar as a 9th class student in India.
 Mediator in Python & Have a deep interest with technology. Programming is my favorite sport.<br> My passion to learn and develop more to achieve my dreams.Also I was a Silver Medalist in Rope skipping of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) <br><br>
 
 
