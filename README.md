@@ -1,7 +1,7 @@
 <hr>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Brodevil.Brodevil"/><h1 align="center">
 
-👋 **Hi there! This is Brodevil!** 👋
+👋 _**Hi there! This is Brodevil!**_ 👋
 </h1>
 
 **I'm Abhinav A Young Programmer, Also known as Brodevil**.<br><br> 
