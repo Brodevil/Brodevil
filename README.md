@@ -4,7 +4,7 @@
 👋 _**Hi there! This is Brodevil!**_ 👋
 </h1>
 
-**I'm Abhinav a Young Programmer, Also known as Brodevil**.<br><br> 
+**I'm Abhinav a passionate self-taught Young Programmer, Also known as Brodevil**.<br><br> 
 UG Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar as a 9th class student in India.
 I'm Mediator Programmer who had been written code for about 2 years, While daily I work with **Python, HTMl & CSS, Python framworks, Javascript, C, Competitive Programming**  Alot.<br><br>
 I'm too much interested in **Data Science**, **Machine learning and AI**, wanna going to learn those stuff soon.<br>
