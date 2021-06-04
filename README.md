@@ -20,10 +20,11 @@ Also I was a Silver Medalist in Rope skipping of School Games Feteration of Indi
 ## Also Available On :
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/780449492620935168)
 [![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil89/)
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:brodevil89@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-252422.svg?style=for-the-badge&logo=twitter)](https://twitter.com/Brodevil2)
 <br>
 
-<hr><br>
+<hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brodevil&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&layout=compact&card_width=250&hide_border=true&theme=dracula"/><br><br><br>
 <br><br><br><br><br><hr>
