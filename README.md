@@ -15,7 +15,7 @@ Also I was a Silver Medalist in Rope skipping of School Games Feteration of Indi
  - I’m currently learning some Python frameworks, C & C++ 
  - Favorite Game is Rope Skipping
  - I’m looking for help with other programmer to work with them in open source
- - I really want to learn many things and become expert; there're many goals and dreams which I hope to achieve. <br><br>
+ - Having several plans and thoughts to do then soon.<br><br>
 
 
 ## Also Available On :
