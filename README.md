@@ -8,14 +8,13 @@
 UG Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar as a 9th class student in India.
 I'm Mediator Programmer who had been written code for about 2 years, While daily I work with **Python, HTMl & CSS, Python framworks, Javascript, C, Competitive Programming**  Alot.<br><br>
 I'm too much interested in **Data Science**, **Machine learning and AI**, wanna going to learn those stuff soon.<br>
-Have a deep interest with technology. Programming is my favorite sport. My passion for learning and developing more to achieve my dreams.<br>
+Have a deep interest with technology. Programming is my favorite sport. I always try my best to condritube in Open source Project, But I can't lol <br>
 Also I was a Silver Medalist in Rope skipping of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) <br><br>
 
  - I’m currently working with Python
  - I’m currently learning some Python frameworks, C & C++ 
  - Favorite Game is Rope Skipping
- - I’m looking for help with other programmer to work with them in open source
- - Having several plans and thoughts to do then soon.<br><br>
+ - I’m looking for help with other programmer to work with them in open source. <br><br>
 
 
 ## Also Available On :
