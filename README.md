@@ -25,4 +25,6 @@ Also I was a Silver Medalist in Rope skipping of School Games Feteration of Indi
 
 <hr><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brodevil&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&layout=compact&card_width=250&hide_border=true&theme=dracula"/><br><br><br>
+<br><br><br><hr>
+<!-- <img align='center' src='https://metrics.lecoq.io/Brodevil'/> -->
