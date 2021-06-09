@@ -1,7 +1,11 @@
-<hr>
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Brodevil.Brodevil"/><h1 align="center">
 
-👋 _**Hi there! This is Brodevil!**_ 👋
+
+<h1 align="center">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+ Hi there! This is Brodevil
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
 **I'm Abhinav a passionate self-taught Young Programmer, Also known as Brodevil**.<br><br> 
