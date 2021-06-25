@@ -13,7 +13,7 @@ UG Student of [Jawahar Navodaya Vidyalaya](https://navodaya.gov.in/) Palghar as 
 I'm Mediator Python Scripter who had been written code for about 1 years, While daily I work with **Python, HTMl & CSS, Python framworks, Javascript, C, Competitive Programming**  Alot.<br><br>
 I'm too much interested in **Data Science**, **Machine learning and AI**, wanna going to learn those stuff soon.<br>
 Have a deep interest with technology. Programming is my favorite sport. I always try my best to condritube in Open source Project, But I can't lol <br>
-Also I was a Silver Medalist in Rope skipping of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) <br><br>
+Also I was a Silver Medalist of School Games Feteration of India ([SGPI](http://www.sgfibharat.com/)) in Rope skipping <br><br>
 
  - I’m currently working with Python
  - I’m currently learning some Python frameworks, C & C++ 
