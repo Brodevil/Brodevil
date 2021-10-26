@@ -10,10 +10,11 @@
 
 **I'm Abhinav, Also known as Brodevil**.<br><br> 
 A hight school student working, Who love to Code and Programming enthusiast.
+I like to solved problems, So I think Compitative Programming is best for me. 
 
  - Born to Learn & Develop
  - Want to become a good programmer 😉
- - Enthusiast experienced in Python & C
+ - Enthusiast experienced in Python & C 🐍 
  - I’m currently learning some Python frameworks, C++ & Data structures and algorithms
  - Favorite Game is Rope Skipping <br><br>
 
