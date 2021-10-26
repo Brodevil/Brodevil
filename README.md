@@ -10,7 +10,7 @@
 
 **I'm Abhinav, Also known as Brodevil**.<br><br> 
 A hight school student working, Who love to Code and Programming enthusiast.
-I like to solved problems, So I think Compitative Programming is best for me. 
+I like to solved problems, So I think Competative Programming is best for me. 
 
  - Born to Learn & Develop
  - Want to become a good programmer 😉
