@@ -16,7 +16,7 @@ I like to solved problems, So I think Compitative Programming is best for me.
  - Want to become a good programmer 😉
  - Enthusiast experienced in Python & C 🐍 
  - I’m currently learning some Python frameworks, C++ & Data structures and algorithms
- - Favorite Game is Rope Skipping <br><br>
+ - My Favorite Sport 🏋️‍ is Rope Skipping <br><br>
 
 
 ## Also Available On :
