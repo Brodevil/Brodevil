@@ -8,7 +8,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
-**I'm Abhinav, AKA Brodevil**.<br><br> 
+**I'm Abhinav, AKA Brodevil**.<br>
+
+ <img align='right' src="https://raw.githubusercontent.com/Brodevil/Brodevil/main/Brodevil.gif" width="230px" height = "230px">
 
 A hight school student & self-taught young programmer who works with Python, C++, R, etc. I love to Code and I am Programming enthusiast.
 I like to solved problems, So I think Competative Programming is best for me.
@@ -24,7 +26,7 @@ I like to solved problems, So I think Competative Programming is best for me.
 [![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil89/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:brodevil89@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-252422.svg?style=for-the-badge&logo=twitter)](https://twitter.com/Brodevil2)
-<br>
+<br><br>
 
 ## My Stats ;)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brodevil&count_private=true&line_height=21&&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
