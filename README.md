@@ -23,9 +23,9 @@ I like to solved problems, So I think Competative Programming is best for me.
 
 ## Also Available On :
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/780449492620935168)
-[![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil89/)
+[![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/abhinav_c89/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:brodevil89@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-252422.svg?style=for-the-badge&logo=twitter)](https://twitter.com/Brodevil2)
+[![Twitter](https://img.shields.io/badge/Twitter-252422.svg?style=for-the-badge&logo=twitter)](https://twitter.com/Brodevil89)
 <br><br>
 
 ## My Stats ;)
