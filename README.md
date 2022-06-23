@@ -12,7 +12,7 @@
 
  <img align='right' src="https://raw.githubusercontent.com/Brodevil/Brodevil/main/Brodevil.gif" width="230px" height = "230px">
 
-A hight school student & self-taught young programmer who works with Python, C++, R, etc. I love to Code and I am Programming enthusiast.
+A high school student & self-taught young programmer who works with Python, C++, R. I love to Code and I am Programming enthusiast.
 I like to solved problems, So I think Competative Programming is best for me.
 
  - Born to Learn & Develop 💻
